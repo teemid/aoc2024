@@ -37,4 +37,4 @@
 
 # Visual Studio
 .vs
-.ilk
+*.ilk
